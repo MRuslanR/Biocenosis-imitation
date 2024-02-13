@@ -32,13 +32,13 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 11,
+				"line" : 22,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 7,
+				"line" : 12,
 				"parent" : 0
 			}
 		]
@@ -90,17 +90,12 @@
 			},
 			{
 				"backtrace" : 2,
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
 				"fragment" : "/opt/homebrew/lib/libsfml-graphics.2.6.1.dylib",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/opt/homebrew/lib/libsfml-audio.2.6.1.dylib",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "/opt/homebrew/lib/libsfml-network.2.6.1.dylib",
 				"role" : "libraries"
 			},
 			{
