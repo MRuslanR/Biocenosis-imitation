@@ -1,3 +1,0 @@
-/Users/therain/CLionProjects/Biocenosis-imitation/cmake-build-debug/CMakeFiles/Biocenosis_imitation.dir
-/Users/therain/CLionProjects/Biocenosis-imitation/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/therain/CLionProjects/Biocenosis-imitation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
