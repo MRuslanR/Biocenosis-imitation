@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.14)
 project(Biocenosis_imitation)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES source/main.cpp)
 add_executable(Biocenosis_imitation ${SOURCE_FILES})
 
 if(WIN32)
